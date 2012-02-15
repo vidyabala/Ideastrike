@@ -8,7 +8,7 @@ The existing tools out there are decent at what they do, but we want something m
 
 ### ToDo
 
- * Migrate to RavenDb
+ * Migrate to RavenDb - vidya
 
 ### Features
 
